@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing a game🕵🏻‍♂️ made by @i_amsneha"];
+const statusMessages = ["MindVault:Unlock Your True Potential"];
 
 
 let currentIndex = 0;
